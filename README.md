@@ -45,17 +45,6 @@ Future enhancements:
 •	Incorporating more patient history features (comorbidities, lifestyle)
 •	Performing feature-importance analysis to highlight key risk factors
 ________________________________________
-🖼 Screenshots of Visualizations / Results
-Include relevant output plots and visualizations:
-•	Distribution of key laboratory values
-•	Correlation heatmap (features vs CKD status)
-•	Boxplots / histograms of features across CKD vs non-CKD
-•	Model performance metrics: confusion matrix, ROC curve
-•	Accuracy, precision, recall, F1-score comparison across models
-Example (once images exist in repo):
-![Correlation Heatmap](images/heatmap.png)
-![ROC Curve](images/roc_curve.png)
-________________________________________
 🛠 Technologies
 Technologies and libraries used (or to be used) in this project:
 •	Python
